@@ -1,16 +1,5 @@
 # ui_remote_task
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![333](https://github.com/user-attachments/assets/a84f66e3-38a9-45bd-bbcf-4978248f0582)
+![222](https://github.com/user-attachments/assets/e0b91dea-fde8-40b8-9a7b-7341a6150869)
+![111](https://github.com/user-attachments/assets/df524f64-df5e-4e64-8f66-7f5a6e5bec9d)
